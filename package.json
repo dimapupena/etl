@@ -1,0 +1,19 @@
+{
+  "name": "olap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "knex": "^0.21.12",
+    "lodash": "^4.17.20",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {
+  }
+}
